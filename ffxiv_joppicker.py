@@ -4,7 +4,7 @@ import discord
 import random
 
 bot = commands.Bot(command_prefix='!',intents=discord.Intents.all())
-TOKEN = 'MTIzNDQ0MjEyMTI3NzA4MzY1OA.GWgFLG.i_d90s5OK1YOUefgxtrSrIHLc8CWGIsmXuuz90'
+TOKEN = 'MTIzNDQ0MjEyMTI3NzA4MzY1OA.G42SKu.RhoKH1k8R1HEnecGz9A7eNKNl-hHn5I3GZIlPE'
 
 @bot.event
 async def on_ready():
