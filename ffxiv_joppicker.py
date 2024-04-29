@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import discord
+from discord.ext import commands
 import random
 
 bot = commands.Bot(command_prefix='!',intents=discord.Intents.all())
