@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python ffxiv_jobpicker.py
